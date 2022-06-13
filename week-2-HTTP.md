@@ -1,5 +1,7 @@
 ## Week 2
 > HTTP 相关问题
+
+
 1. 对于一个URL，protocol、hostname、port、pathname、search、hash 分别是什么?
 2. 同源策略中的同源指的是什么?
 1. OSI有哪七层模型？TCP/IP是哪四层模型。
