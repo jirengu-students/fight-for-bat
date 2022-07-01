@@ -1,1 +1,24 @@
 
+1. 实现一个数组去重
+2. 如果不用Set怎么去重?
+1. 如何在原数组上去重?
+1. 如果数组里是多个对象，如何按对象属性字段去重?
+1. 手写对象或者数组的深拷贝
+1. 如果存在循环引用怎么办
+1. 如何深拷贝一个函数
+1. 实现一个trim函数
+1. 手写一个curry函数
+1. 写一个观察者EventBus，含emit、on、once、off这些方法
+1. 实现一个 instancdof
+1. 实现一个 new 
+1. 用call/apply实现bind
+1. 不用call/apply实现bind
+1. 手写防抖
+1. 写节流
+1. 手写Array的map、filter、reduce
+1. 写一个数组拍平flat
+1. 手写一个原型继承
+1. 用class写一个继承
+1. 用Promise封装一个delay函数
+1. 实现字符串大数相加
+1. To be continue ...
