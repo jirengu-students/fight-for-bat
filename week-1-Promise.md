@@ -1,4 +1,6 @@
 ## Week 1
+> 以下内容视频讲解 https://xiedaimala.com/courses/84442049-6396-4a7c-97c1-881342c86b8e/random/851dccc414?#/common
+
 > Promise 相关问题
 
 1. 聊一聊Promise的原理
