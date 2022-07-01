@@ -12,5 +12,8 @@
 #### 第三周
 - [HTML、CSS相关问题](week-3-HTML&CSS)
 
+#### 第四周
+- [手写代码](week-4-write-code)
+
 ## 联系
 协助更新，请提PR。咨询课程联系微信: xiedaimala03 、 xiedaimala04 、 xiedaimala05 ，备注：大厂冲刺
